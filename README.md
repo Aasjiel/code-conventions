@@ -130,7 +130,7 @@ $secondaryBtnFontColor: #ffffff
    
 </div>
 <div style="display: flex; justify-content: flex-end">
-     <h5>example - written for componentbased js framework</h5>
+     <h5>example - written for component based js framework</h5>
 </div>
 <div style="display: flex; justify-content: flex-end;">
 
